@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="?f=stylesheets$fn=BWSiteTransform.xsl" ?>
+<document xmlns:lmt="http://lexisnexis.co.za/schema/lmt">
+<docinfo
+	filename="2ons"
+	lastupdated="18991229T000000"
+	processdate="20170628T080856">
+	<title>Interpretation Notes</title>
+	<titlepath>
+		<title1 id="7b" groupid="106">Income Tax</title1>
+		<title2 id="7d" groupid="178">Income Tax Practice Manual</title2>
+		<title3 id="2ons" groupid="905177">Interpretation Notes</title3>
+	</titlepath>
+	<currentness>
+		<currentness-author>The Hon Mr Justice Zulman Judge of the Supreme Court of Appeal; Mark Preiss BComm (Witwatersrand) LLB (Unisa) H Dip Tax (RAU) Associate Director International Corporate Tax Service - Ernst and Young; Jonathan Silke BA (Cape Town) LLB (Witwatersrand) LLM (Cape Town) M Acc (Natal) Advocate of the High Court Member of the Cape Bar</currentness-author>
+		<currentness-date>June 2017 - SI 69. Product developer: Craigen Surajlall</currentness-date>
+	</currentness>
+</docinfo>
+<body>
+<generator style="1" title="Interpretation Notes"><item level="-2" url="../../7b">Income Tax</item><item level="-1" url="../7d" author="The Hon Mr Justice Zulman Judge of the Supreme Court of Appeal; Mark Preiss BComm (Witwatersrand) LLB (Unisa) H Dip Tax (RAU) Associate Director International Corporate Tax Service - Ernst and Young; Jonathan Silke BA (Cape Town) LLB (Witwatersrand) LLM (Cape Town) M Acc (Natal) Advocate of the High Court Member of the Cape Bar" currentness="June 2017 - SI 69. Product developer: Craigen Surajlall">Income Tax Practice Manual</item><item level="0">Interpretation Notes</item><!-- #MULTIVIEW:XMLCONTENTS1 --></generator>
+</body>
+</document>
